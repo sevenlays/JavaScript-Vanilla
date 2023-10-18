@@ -1,3 +1,5 @@
 let button = document.getElementById('alert')
 
-console.log(button)
+
+let mezzo = document.querySelector('.mezzo.forte');
+console.log(mezzo)

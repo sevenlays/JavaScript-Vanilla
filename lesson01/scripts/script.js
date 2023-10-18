@@ -1,9 +1,8 @@
-'use strict';
+// arithmetic extentions
 
-alert('Я -')
-alert('JavaScript')
+let students = 20;
 
-// alert('Hello');
-// [1, 2].forEach(alert);
 
-// Коментарий без смысла Коментарий без смысла  Коментарий без смысла  Коментарий без смысла  Коментарий без смысла Коментарий без смысла Коментарий без смысла Коментарий без смысла 
+
+
+            console.log(students);
